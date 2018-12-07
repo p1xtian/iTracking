@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "974310507499",
+    "firebase_url": "https://itracking-9d7b4.firebaseio.com",
+    "project_id": "itracking-9d7b4",
+    "storage_bucket": "itracking-9d7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974310507499:android:1fa6ef054769ec67",
+        "android_client_info": {
+          "package_name": "local.itracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974310507499-f35esb8ir5miapsga26bps92ts6tafbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqYiHc-isvz80Fgd3UGetYUhu_4DOkMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
